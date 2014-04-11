@@ -1,4 +1,4 @@
 test
 ====
 
-Its only my fist repository about test
+Its only my frst repository about test
